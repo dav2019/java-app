@@ -63,7 +63,7 @@
   flex-direction: row;
 }
 .input {
-  height: 99px;
+  height: 100px;
   width: 25%;
   background: yellowgreen;
   display: flex;
