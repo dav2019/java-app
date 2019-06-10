@@ -3,13 +3,13 @@
 # How to use this Simple Calculator
 
 1. Choose and click the numbers 
-2. Click a operator(plus +/minus -/times X/divide /)
+2. Click an operator(plus +/minus -/times X/divide /)
 3. Choose and click the numbers again
 4. Click the equal '=' button to reveal the result in two decimal place
-5. Click the clear button if you want to calculate different numbers otherwise, if you want to use the result to calculate. Click a operator(plus +/minus -/times X/divide /) !
+5. Click the clear button if you want to calculate different numbers otherwise, if you want to use the result to calculate. Click an operator(plus +/minus -/times X/divide /) !
 6. Choose and click the numbers again 
 7. Click the equal '=' button to reveal the result in two decimal place
-8. repeat step 5
+8. Repeat step 5
 
 ---
 
