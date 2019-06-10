@@ -75,7 +75,7 @@ document.querySelector(".zero").onclick = function(e){
 document.querySelector(".decimal").onclick = function(e){
   // inputs.push(Number(e.target.innerText))
   // console.log(inputs)
-  document.querySelector("#calc").innerHTML = `<p>${'w.i.p press clear'}</p>`;
+  document.querySelector("#calc").innerHTML = `<p>${'work in progress'}</p>`;
 }
 
 document.querySelector(".one").onclick = function(e){
